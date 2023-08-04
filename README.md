@@ -30,5 +30,5 @@ root/
  |-- log$j.properties/
  |   Pipfile
  |   Pipfile.lock
-  |   test_pytest_etl.py
+  |   test_pytest.py
 ```
